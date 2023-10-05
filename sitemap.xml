@@ -684,13 +684,6 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
-    <lastmod>2023-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jasonsgong.gitee.io/tags/Git/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -698,7 +691,7 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -706,6 +699,13 @@
   
   <url>
     <loc>https://jasonsgong.gitee.io/tags/Java/</loc>
+    <lastmod>2023-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasonsgong.gitee.io/tags/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -817,14 +817,14 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -852,14 +852,14 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E7%BB%86%E8%8A%82%E7%9F%A5%E8%AF%86/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/%E7%BB%86%E8%8A%82%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
