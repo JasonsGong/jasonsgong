@@ -1385,7 +1385,7 @@ canvas:not(#ribbon-canvas),
   --white: #fff;
   --text-highlight-color: #1f2d3d;
   --blockquote-color: #6a737d;
-  --blockquote-bg: rgba(73,177,245,0.1);
+  --blockquote-bg: rgba(23,132,79,0.1);
   --reward-pop: #f5f5f5;
   --toc-link-color: #666261;
   --card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.05);
@@ -1469,7 +1469,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #00c4b6;
+  background: #17844f;
   color: #f7f7f7;
 }
 button {
@@ -1519,7 +1519,7 @@ img:not([src]) {
 blockquote {
   margin: 0 0 20px;
   padding: 12px 15px;
-  border-left: 3px solid #49b1f5;
+  border-left: 3px solid #17844f;
   background-color: var(--blockquote-bg);
   color: var(--blockquote-color);
 }
@@ -5520,6 +5520,7 @@ blockquote.pullquote.right {
 [data-theme='dark'] .hl-label,
 [data-theme='dark'] .post-outdate-notice,
 [data-theme='dark'] .error-img,
+[data-theme='dark'] .blog-slider__img,
 [data-theme='dark'] #article-container iframe,
 [data-theme='dark'] .gist,
 [data-theme='dark'] .ads-wrap {
