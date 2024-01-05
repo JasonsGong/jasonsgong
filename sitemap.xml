@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jasonsgong.gitee.io/posts/8957.html</loc>
+    
+    <lastmod>2024-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasonsgong.gitee.io/posts/1416.html</loc>
+    
+    <lastmod>2024-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasonsgong.gitee.io/posts/32696.html</loc>
+    
+    <lastmod>2024-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jasonsgong.gitee.io/posts/24183.html</loc>
     
     <lastmod>2024-01-05</lastmod>
@@ -41,15 +68,6 @@
     <loc>https://jasonsgong.gitee.io/website/index.html</loc>
     
     <lastmod>2023-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonsgong.gitee.io/posts/32696.html</loc>
-    
-    <lastmod>2023-12-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -194,15 +212,6 @@
     <loc>https://jasonsgong.gitee.io/posts/29985.html</loc>
     
     <lastmod>2023-09-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonsgong.gitee.io/posts/8957.html</loc>
-    
-    <lastmod>2023-09-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -408,15 +417,6 @@
   
   <url>
     <loc>https://jasonsgong.gitee.io/posts/60684.html</loc>
-    
-    <lastmod>2023-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonsgong.gitee.io/posts/1416.html</loc>
     
     <lastmod>2023-09-11</lastmod>
     
@@ -734,7 +734,7 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/Hive/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/Git/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -748,7 +748,7 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/Git/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/Hive/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -811,14 +811,14 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E6%8F%92%E4%BB%B6/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/OCR/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/OCR/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/%E6%8F%92%E4%BB%B6/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -832,7 +832,7 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/VMWare/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/SpringCloud/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -846,7 +846,7 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/SpringCloud/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/VMWare/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -881,6 +881,13 @@
   </url>
   
   <url>
+    <loc>https://jasonsgong.gitee.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2024-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jasonsgong.gitee.io/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -895,7 +902,7 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -903,13 +910,6 @@
   
   <url>
     <loc>https://jasonsgong.gitee.io/tags/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2024-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -930,14 +930,14 @@
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E7%BB%86%E8%8A%82%E7%9F%A5%E8%AF%86/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/%E7%89%B9%E6%AE%8A%E7%AC%A6%E5%8F%B7/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jasonsgong.gitee.io/tags/%E7%89%B9%E6%AE%8A%E7%AC%A6%E5%8F%B7/</loc>
+    <loc>https://jasonsgong.gitee.io/tags/%E7%BB%86%E8%8A%82%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
