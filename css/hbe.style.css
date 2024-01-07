@@ -305,8 +305,8 @@
 	padding: 0.5em 0em 0.25em;
 	width: 100%;
 	background: transparent;
-	color: #9da8b2;
-	font-size: 1.25em;
+	color: #006650;
+	font-size: 1.0em;
 }
 
 .hbe-input-label-wave {
@@ -328,7 +328,7 @@
 }
 
 .hbe-graphic-wave {
-	stroke: #92989e;
+	stroke: #006650;
 	pointer-events: none;
 	-webkit-transition: -webkit-transform 0.7s, stroke 0.7s;
 	transition: transform 0.7s, stroke 0.7s;
@@ -338,14 +338,14 @@
 
 .hbe-input-field-wave:focus + .hbe-input-label-wave,
 .input--filled .hbe-input-label-wave {
-	color: #333;
+	color: #006650;
 	-webkit-transform: translate3d(0, -1.25em, 0) scale3d(0.75, 0.75, 1);
 	transform: translate3d(0, -1.25em, 0) scale3d(0.75, 0.75, 1);
 }
 
 .hbe-input-field-wave:focus ~ .hbe-graphic-wave,
 .input--filled .graphic-wave {
-	stroke: #333;
+	stroke: #006650;
 	-webkit-transform: translate3d(-66.6%, 0, 0);
 	transform: translate3d(-66.6%, 0, 0);
 }
@@ -747,3 +747,9 @@
 	transform: translate3d(0, 2em, 0) scale3d(0.655, 0.655, 1);
 }
 /* shrink theme }}} */
+
+/* 去除密码输入框右侧小眼睛 */
+input[type="password"]::-ms-reveal{
+	display:none
+}
+   
